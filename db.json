@@ -1,0 +1,421 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1500,
+      "description": "A high-performance laptop for all your computing needs.",
+      "imageUrl": "https://picsum.photos/150/150?id=1",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 800,
+      "description": "A latest model smartphone with all the modern features.",
+      "imageUrl": "https://picsum.photos/150/150?id=2",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 200,
+      "description": "Noise-cancelling over-ear headphones.",
+      "imageUrl": "https://picsum.photos/150/150?id=3",
+      "available": false,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 4,
+      "name": "Tablet",
+      "price": 600,
+      "description": "A lightweight tablet perfect for reading and browsing.",
+      "imageUrl": "https://picsum.photos/150/150?id=4",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "id": 5,
+      "name": "Camera",
+      "price": 1200,
+      "description": "A professional-grade camera for high-quality photography.",
+      "imageUrl": "https://picsum.photos/150/150?id=5",
+      "available": false,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 6,
+      "name": "Printer",
+      "price": 300,
+      "description": "A wireless printer with high-speed printing capabilities.",
+      "imageUrl": "https://picsum.photos/150/150?id=6",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "id": 7,
+      "name": "Monitor",
+      "price": 400,
+      "description": "A 4K monitor with stunning display quality.",
+      "imageUrl": "https://picsum.photos/150/150?id=7",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 8,
+      "name": "Keyboard",
+      "price": 100,
+      "description": "A mechanical keyboard with customizable keys.",
+      "imageUrl": "https://picsum.photos/150/150?id=8",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 9,
+      "name": "Mouse",
+      "price": 50,
+      "description": "A wireless mouse with ergonomic design.",
+      "imageUrl": "https://picsum.photos/150/150?id=9",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "price": 123,
+      "description": "Description of product 10",
+      "imageUrl": "https://picsum.photos/150/150?id=10",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "price": 456,
+      "description": "Description of product 11",
+      "imageUrl": "https://picsum.photos/150/150?id=11",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "price": 789,
+      "description": "Description of product 12",
+      "imageUrl": "https://picsum.photos/150/150?id=12",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "price": 123,
+      "description": "Description of product 13",
+      "imageUrl": "https://picsum.photos/150/150?id=13",
+      "available": false,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "price": 456,
+      "description": "Description of product 14",
+      "imageUrl": "https://picsum.photos/150/150?id=14",
+      "available": false,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "price": 789,
+      "description": "Description of product 15",
+      "imageUrl": "https://picsum.photos/150/150?id=15",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "price": 321,
+      "description": "Description of product 16",
+      "imageUrl": "https://picsum.photos/150/150?id=16",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "price": 654,
+      "description": "Description of product 17",
+      "imageUrl": "https://picsum.photos/150/150?id=17",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "price": 987,
+      "description": "Description of product 18",
+      "imageUrl": "https://picsum.photos/150/150?id=18",
+      "available": false,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "price": 321,
+      "description": "Description of product 19",
+      "imageUrl": "https://picsum.photos/150/150?id=19",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "price": 654,
+      "description": "Description of product 20",
+      "imageUrl": "https://picsum.photos/150/150?id=20",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 21,
+      "name": "Product 21",
+      "price": 987,
+      "description": "Description of product 21",
+      "imageUrl": "https://picsum.photos/150/150?id=21",
+      "available": false,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 22,
+      "name": "Product 22",
+      "price": 321,
+      "description": "Description of product 22",
+      "imageUrl": "https://picsum.photos/150/150?id=22",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "id": 23,
+      "name": "Product 23",
+      "price": 654,
+      "description": "Description of product 23",
+      "imageUrl": "https://picsum.photos/150/150?id=23",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 24,
+      "name": "Product 24",
+      "price": 987,
+      "description": "Description of product 24",
+      "imageUrl": "https://picsum.photos/150/150?id=24",
+      "available": false,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 25,
+      "name": "Product 25",
+      "price": 321,
+      "description": "Description of product 25",
+      "imageUrl": "https://picsum.photos/150/150?id=25",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 26,
+      "name": "Product 26",
+      "price": 654,
+      "description": "Description of product 26",
+      "imageUrl": "https://picsum.photos/150/150?id=26",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 27,
+      "name": "Product 27",
+      "price": 987,
+      "description": "Description of product 27",
+      "imageUrl": "https://picsum.photos/150/150?id=27",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "id": 28,
+      "name": "Product 28",
+      "price": 321,
+      "description": "Description of product 28",
+      "imageUrl": "https://picsum.photos/150/150?id=28",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 29,
+      "name": "Product 29",
+      "price": 654,
+      "description": "Description of product 29",
+      "imageUrl": "https://picsum.photos/150/150?id=29",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "id": 30,
+      "name": "Product 30",
+      "price": 987,
+      "description": "Description of product 30",
+      "imageUrl": "https://picsum.photos/150/150?id=30",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 31,
+      "name": "Product 31",
+      "price": 321,
+      "description": "Description of product 31",
+      "imageUrl": "https://picsum.photos/150/150?id=31",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "id": 32,
+      "name": "Product 32",
+      "price": 654,
+      "description": "Description of product 32",
+      "imageUrl": "https://picsum.photos/150/150?id=32",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 33,
+      "name": "Product 33",
+      "price": 987,
+      "description": "Description of product 33",
+      "imageUrl": "https://picsum.photos/150/150?id=33",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 34,
+      "name": "Product 34",
+      "price": 321,
+      "description": "Description of product 34",
+      "imageUrl": "https://picsum.photos/150/150?id=34",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 35,
+      "name": "Product 35",
+      "price": 654,
+      "description": "Description of product 35",
+      "imageUrl": "https://picsum.photos/150/150?id=35",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 36,
+      "name": "Product 36",
+      "price": 987,
+      "description": "Description of product 36",
+      "imageUrl": "https://picsum.photos/150/150?id=36",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 37,
+      "name": "Product 37",
+      "price": 321,
+      "description": "Description of product 37",
+      "imageUrl": "https://picsum.photos/150/150?id=37",
+      "available": true,
+      "categoryId": "1",
+      "type": "type1"
+    },
+    {
+      "id": 38,
+      "name": "Product 38",
+      "price": 654,
+      "description": "Description of product 38",
+      "imageUrl": "https://picsum.photos/150/150?id=38",
+      "available": true,
+      "categoryId": "2",
+      "type": "type2"
+    },
+    {
+      "id": 39,
+      "name": "Product 39",
+      "price": 987,
+      "description": "Description of product 39",
+      "imageUrl": "https://picsum.photos/150/150?id=39",
+      "available": true,
+      "categoryId": "2",
+      "type": "type1"
+    },
+    {
+      "id": 40,
+      "name": "Product 40",
+      "price": 321,
+      "description": "Description of product 40",
+      "imageUrl": "https://picsum.photos/150/150?id=40",
+      "available": true,
+      "categoryId": "1",
+      "type": "type2"
+    },
+    {
+      "name": "dsiofiw",
+      "price": 3124,
+      "available": false,
+      "type": "type2",
+      "categoryId": "2",
+      "description": "nkmsakf ",
+      "imageUrl": "https://res.cloudinary.com/dywkkihjh/image/upload/v1728462407/art_afyttx.png",
+      "id": 41
+    }
+  ],
+  "users": [
+    {
+      "email": "toanphung353@gmail.com",
+      "password": "$2a$10$0z81BPPRK0rBpFFbpvINceRsqVh7VFVVNZhTZrZ5uJ9Xfrnj4nOtS",
+      "id": 1
+    }
+  ]
+}
